@@ -1,9 +1,8 @@
-package com.hadoop.test.compression;
+package com.hadoop.test.hdfs.compression;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IOUtils;
-import org.apache.hadoop.io.compress.BZip2Codec;
 import org.apache.hadoop.io.compress.CompressionOutputStream;
 import org.apache.hadoop.io.compress.GzipCodec;
 import java.io.*;

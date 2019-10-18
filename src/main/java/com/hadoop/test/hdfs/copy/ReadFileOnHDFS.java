@@ -1,4 +1,4 @@
-package com.hadoop.test.copy;
+package com.hadoop.test.hdfs.copy;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;

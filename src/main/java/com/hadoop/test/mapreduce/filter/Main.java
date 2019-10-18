@@ -1,8 +1,5 @@
 package com.hadoop.test.mapreduce.filter;
 
-import com.hadoop.test.mapreduce.wordscount.MainDemo;
-import com.hadoop.test.mapreduce.wordscount.WordsMap;
-import com.hadoop.test.mapreduce.wordscount.WordsReduce;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;

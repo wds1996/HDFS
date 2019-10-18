@@ -1,4 +1,4 @@
-package com.hadoop.test.sequencefile;
+package com.hadoop.test.hdfs.sequencefile;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

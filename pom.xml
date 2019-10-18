@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>WDS</groupId>
-    <artifactId>HDFS</artifactId>
+    <artifactId>Hadoop</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <cdh.version>2.6.0-cdh5.14.2</cdh.version>
